@@ -1,1 +1,1 @@
-package golang_readme_project
+package main
